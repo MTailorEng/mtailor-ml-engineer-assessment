@@ -5,6 +5,7 @@ You have to design and implement a Training Pipeline that can train, test and vi
 ## Assignment Protocols
 
 - You will be given 6 hours at max to complete this assessment
+- You need to use Google Collaboratory to run this notebook
 - You can only use Python as a programming Language
 - Once you start you have to complete this assessment in those 6 hours, it cannot be paused and resumed later
 - You cannot take help from any other person
